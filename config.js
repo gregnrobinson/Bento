@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Greg',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -26,14 +26,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'aa600cf38d4ea1abab0f93b0c2ae87b8', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '43.6532',
+	defaultLongitude: '79.3832',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -51,42 +51,42 @@ const CONFIG = {
 	// └─┘└─┘ ┴  ┴ └─┘┘└┘└─┘
 
 	firstButtonsContainer: [
-		{
-			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
-		},
-		{
-			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
-		},
-		{
-			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
-		},
-		{
-			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
-		},
-		{
-			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
+	  {
+		id: '1',
+		name: 'Github',
+		icon: 'github',
+		link: 'https://github.com/gregnrobinson',
+	  },
+	  {
+		id: '2',
+		name: 'Youtube',
+		icon: 'youtube',
+		link: 'https://youtube.com/',
+	  },
+	  {
+		id: '3',
+		name: 'Mail',
+		icon: 'mail',
+		link: 'https://outlook.office.com/mail/',
+	  },
+	  {
+		id: '4',
+		name: 'Calendar',
+		icon: 'calendar',
+		link: 'https://outlook.office.com/calendar/view/week',
+	  },
+	  {
+		id: '5',
+		name: 'ChatGPT',
+		icon: 'code',
+		link: 'https://chat.openai.com/',
+	  },
+	  {
+		id: '6',
+		name: 'Linkedin',
+		icon: 'linkedin',
+		link: 'https://www.linkedin.com/in/gregnrobinson/',
+	  },
 	],
 
 	secondButtonsContainer: [
