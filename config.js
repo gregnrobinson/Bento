@@ -135,46 +135,38 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'office',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Slalom One,
+					link: 'https://twodegrees1.sharepoint.com/teams/Slalom',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'me@slalom',
+					link: 'https://me.slalom.com',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'My Requests',
+					link: 'https://slalom.service-now.com/help?id=my_requests',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'My Time',
+					link: 'https://mytime.slalom.com',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'office',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Expenses',
+					link: 'https://app.eu1.chromeriver.com/index',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
-				},
-				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
-				},
-				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Workday',
+					link: 'https://www.myworkday.com/slalom/d/home.htmld',
 				},
 			],
 		},
