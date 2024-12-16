@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'office',
+			icon: 'code',
 			id: '1',
 			links: [
 				{
@@ -157,7 +157,7 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'office',
+			icon: 'code',
 			id: '2',
 			links: [
 				{
@@ -167,6 +167,14 @@ const CONFIG = {
 				{
 					name: 'Workday',
 					link: 'https://www.myworkday.com/slalom/d/home.htmld',
+				},
+					{
+					name: 'Slalom Help',
+					link: 'https://slalom.service-now.com/help',
+				},
+				{
+					name: 'Bitbucket',
+					link: 'https://bitbucket.org/slalom-consulting',
 				},
 			],
 		},
