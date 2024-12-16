@@ -139,7 +139,7 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Slalom One,
+					name: 'Slalom One',
 					link: 'https://twodegrees1.sharepoint.com/teams/Slalom',
 				},
 				{
