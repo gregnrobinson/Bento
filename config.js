@@ -77,9 +77,9 @@ const CONFIG = {
 	  },
 	  {
 		id: '5',
-		name: 'ChatGPT',
+		name: 'Gemini',
 		icon: 'code',
-		link: 'https://chat.openai.com/',
+		link: 'https://gemini.google.com/',
 	  },
 	  {
 		id: '6',
